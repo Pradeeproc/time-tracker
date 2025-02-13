@@ -15,6 +15,6 @@ Requirements:
 * JDK 17+
 * Maven 3.8+
 
-```bash
+```bas
 mvn clean install
 ```
